@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanFlow.API", "LoanFlow.API\LoanFlow.API.csproj", "{2E14CE32-4D22-42C4-9A15-F55165BDDC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanFlow.Tests", "LoanFlow.Tests\LoanFlow.Tests.csproj", "{1C971FDD-E675-4604-8356-D1A8F49206A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E14CE32-4D22-42C4-9A15-F55165BDDC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E14CE32-4D22-42C4-9A15-F55165BDDC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E14CE32-4D22-42C4-9A15-F55165BDDC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E14CE32-4D22-42C4-9A15-F55165BDDC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C971FDD-E675-4604-8356-D1A8F49206A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C971FDD-E675-4604-8356-D1A8F49206A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C971FDD-E675-4604-8356-D1A8F49206A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C971FDD-E675-4604-8356-D1A8F49206A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
